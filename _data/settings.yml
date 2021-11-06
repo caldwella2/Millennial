@@ -11,7 +11,6 @@ menu:
 - {name: 'Education',          url: 'education'}
 - {name: 'Projects',           url: 'project'}
 - {name: 'Work Experience',    url: 'experience'}
-- {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer

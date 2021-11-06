@@ -9,6 +9,15 @@ image: arctic-2.jpg
 
 ## Courses
 
+- Computational Expression 100
+- Data Abstraction 101
+- Discrete Structures 102
+- Programming Languages 201
+- Software Engineering 203
+- Software Innovation 480
+
+
+
 The beauty of computer programming is that you do not need to formally go to school to learn how to program. You can learn almost everything that you would need to know online, and for free. The following resources are some that I have used personally, that I highly recommend, for anyone looking to learn more about computer programming.
 
 ## [Free Code Camp](https://www.freecodecamp.org/)

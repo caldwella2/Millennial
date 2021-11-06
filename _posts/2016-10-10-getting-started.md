@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Getting Started"
-author: "Paul Le"
+author: "Alexis Caldwell"
 categories: documentation
 tags: [documentation,sample]
 image: city-1.jpg

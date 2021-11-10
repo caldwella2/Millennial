@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Text Formatting"
+title: "Projects"
 author: "Alexis Caldwell"
 categories: sample
 tags: [sample]

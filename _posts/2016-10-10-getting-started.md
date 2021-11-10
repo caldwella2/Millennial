@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Getting Started"
+title: "Work Experience"
 author: "Alexis Caldwell"
 categories: documentation
 tags: [documentation,sample]

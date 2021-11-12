@@ -16,6 +16,12 @@ _**Summers of 2019-2021**_
 - Facilitated meaningful learning experiences on a daily basis
 - Communicated with parents and family members of students in a positive and constructive manner
 
+### Organizations at Allegheny
+
+**Co-President of Black Girl Magic, Meadville, PA**
+_**AUG 2021 - PRESENT**_
+
+**Captain of Allegheny's Women Basketball**
 
 ```bash
 Millennial/

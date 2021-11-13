@@ -4,7 +4,7 @@ title: "Work Experience"
 author: "Alexis Caldwell"
 categories: documentation
 tags: [documentation,sample]
-image: city-1.jpg
+image: working.jpg
 ---
 
 ## Work Experience

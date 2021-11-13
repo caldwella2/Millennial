@@ -4,7 +4,7 @@ title: "Education"
 author: "Alexis Caldwell"
 categories: resources
 tags: [documentation,sample]
-image: arctic-2.jpg
+image: gheny.jpg
 ---
 
 # Courses

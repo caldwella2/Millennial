@@ -21,6 +21,7 @@ image: arctic-1.jpg
 
 ### Photoshop
 ![Astronaut](AstroOnFire.jpg)
+![Collage](FinishedCollage.jpg)
 ### Premiere Pro
 
 ### After Effects

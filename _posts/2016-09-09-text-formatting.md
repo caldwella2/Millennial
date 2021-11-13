@@ -4,7 +4,7 @@ title: "Projects"
 author: "Alexis Caldwell"
 categories: sample
 tags: [sample]
-image: arctic-1.jpg
+image: coding.jpg
 ---
 ## Computer Science Projects
 

@@ -18,7 +18,7 @@ _**Summers of 2019-2021**_
 
 ### Organizations at Allegheny
 
-+ **Co-President of Black Girl Magic, Meadville, PA**
+**Co-President of Black Girl Magic, Meadville, PA**
 _**AUG 2021 - PRESENT**_
 
 + **Captain of Allegheny's Women Basketball**

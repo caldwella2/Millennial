@@ -36,11 +36,11 @@ image: books.jpg
 
 <table>
  <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
+    <td><b style="font-size:30px">Film</b></td>
+    <td><b style="font-size:30px">Computer Science</b></td>
  </tr>
  <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
+    <td>Film</td>
+    <td>Computer Science</td>
  </tr>
 </table>

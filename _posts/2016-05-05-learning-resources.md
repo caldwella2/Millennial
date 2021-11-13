@@ -32,3 +32,15 @@ image: books.jpg
 ## Software Innovation 480
 
 - An introduction to the technical and communication skills needed to design, implement, and publicly release innovative software. In addition to establishing connections with professionals in the software field, students refine their writing abilities as they participate in online technical communities. During a weekly practical session, students use state-of-the-art tools to complete well-documented software that is useful to external collaborators, describing their systems through oral presentations and written documents featured on a web site.
+
+
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>

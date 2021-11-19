@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome to my Portfolio Website!"
+title: "About the Author!"
 author: "Alexis Caldwell"
 categories: facts
 tags: [sample]

@@ -20,8 +20,8 @@ image: coding.jpg
 ## Adobe Creative Cloud Projects
 
 ### Photoshop
-![Astronaut](AstroOnFire.jpg)
-![Collage](FinishedCollage.jpg)
+![Astronaut](assets/img/AstroOnFire.jpg)
+![Collage](assets/img/FinishedCollage.jpg)
 ### Premiere Pro
 
 ### After Effects

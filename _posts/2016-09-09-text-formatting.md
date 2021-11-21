@@ -22,6 +22,7 @@ image: coding.jpg
 ### Photoshop
 ![Astronaut](assets/img/AstroOnFire.jpg)
 ![Collage](assets/img/FinishedCollage.jpg)
+{% include image-gallery.html folder="/uploads/album" %}
 ### Premiere Pro
 
 ### After Effects

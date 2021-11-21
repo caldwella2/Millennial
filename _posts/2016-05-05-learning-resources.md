@@ -19,11 +19,11 @@ image: books.jpg
 
 ## Discrete Structures 102
 
-- An introduction to the foundations of computer science with an emphasis on understanding the abstract structures used to represent discrete objects. Participating in hands-on activities that often require teamwork, students learn the computational methods and logical principles that they need to create and manipulate discrete objects in a programming environment. Students also learn how to write, organize, and document a program's source code so that it is easily accessible to intended users of varied backgrounds.
+- An introduction to the foundations of computer science with an emphasis on understanding the abstract structures used to represent discrete objects. Students learn the computational methods and logical principles that they need to create and manipulate discrete objects in a programming environment. Students also learn how to write, organize, and document a program's source code so that it is easily accessible to intended users of varied backgrounds.
 
 ## Programming Languages 201
 
-- A study of the fundamental concepts that arise in different programming language paradigms. Students learn how programming languages are designed and implemented, and how these factors affect the overall usability, performance, and effectiveness of computer software. Participating in hands-on activities that often require teamwork, students gain experience in leveraging the styles and features of programming languages to implement and evaluate correct and efficient computer software.
+- A study of the fundamental concepts that arise in different programming language paradigms. Students learn how programming languages are designed and implemented, and how these factors affect the overall usability, performance, and effectiveness of computer software.
 
 ## Software Engineering 203
 
@@ -31,7 +31,7 @@ image: books.jpg
 
 ## Software Innovation 480
 
-- An introduction to the technical and communication skills needed to design, implement, and publicly release innovative software. In addition to establishing connections with professionals in the software field, students refine their writing abilities as they participate in online technical communities. During a weekly practical session, students use state-of-the-art tools to complete well-documented software that is useful to external collaborators, describing their systems through oral presentations and written documents featured on a web site.
+- An introduction to the technical and communication skills needed to design, implement, and publicly release innovative software. In addition to establishing connections with professionals in the software field, students refine their writing abilities as they participate in online technical communities. 
 
 # Film and Art Courses
 

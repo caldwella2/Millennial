@@ -7,23 +7,22 @@ tags: [documentation,sample]
 image: working.jpg
 ---
 
-## Work Experience
+# Work Experience
 
-### Daycare Worker at Kiddie University, Cleveland, TN
-
+## Daycare Worker at Kiddie University, Cleveland, TN
 _**Summers of 2019-2021**_
 
 - Facilitated meaningful learning experiences on a daily basis
 - Communicated with parents and family members of students in a positive and constructive manner
 - Conducted helpful habits for the children to imitate
 
-### Organizations at Allegheny
+## Organizations at Allegheny
 
-**Co-President of Black Girl Magic, Meadville, PA**
+Co-President of Black Girl Magic, Meadville, PA
 _**AUG 2021 - PRESENT**_
 
-**Captain of Allegheny's Women Basketball**
+Captain of Allegheny's Women Basketball
 _**AUG 2019 - PRESENT**_
 
-**Member of the Outing Club**
+Member of the Outing Club
 _**AUG 2019 - APR 2021**_

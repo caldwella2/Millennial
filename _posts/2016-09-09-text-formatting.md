@@ -14,6 +14,7 @@ image: coding.jpg
 + Effective Team Leader
 + Java Programming
 + Python Programming
++ JavaScript
 + Docker
 + GitHub
 

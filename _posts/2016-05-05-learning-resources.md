@@ -7,7 +7,7 @@ tags: [documentation,sample]
 image: books.jpg
 ---
 
-# Courses
+# Computer Science Courses
 
 ## Computational Expression 100
 
@@ -32,3 +32,17 @@ image: books.jpg
 ## Software Innovation 480
 
 - An introduction to the technical and communication skills needed to design, implement, and publicly release innovative software. In addition to establishing connections with professionals in the software field, students refine their writing abilities as they participate in online technical communities. During a weekly practical session, students use state-of-the-art tools to complete well-documented software that is useful to external collaborators, describing their systems through oral presentations and written documents featured on a web site.
+
+# Film and Art Courses
+
+## Electronic & Intermedia Art 187
+
+- An introduction to using electronic technologies/software and digital media as art-making tools. Emphasis on awareness of the elements of 2D design/composition and the vocabulary used to describe it. Coursework integrates effective oral and written communication to explore contemporary and historical practices within the medium and the role of electronic art in human experience.
+
+## Filmmaking & Digital Stories 2 300
+
+- An intermediate-level production course that develops a student's abilities to communicate in narrative, nonfiction and experimental forms of cinema. Students study key elements of scriptwriting and concept design and expand their technical skill base in lighting, sound design, cinematography and editing. Technical skills are developed in service to artistic, narrative and conceptual forms of expression.
+
+## Filmmaking Technique 350
+
+- An advanced workshop in which students develop expertise in a particular area of filmmaking. Topics may include, but are not limited to: cinematography and lighting; sound design; visual effects; and advanced editing. Students integrate course subject matter into fully produced film projects.

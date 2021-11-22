@@ -21,6 +21,9 @@ Adobe PhotoShop       | Adobe After Effects   | Python Programming
 ### Photoshop
 
 ![Astronaut](assets/img/AstroOnFire.jpg)
+
+![Astronaut2](assets/img/AstroOnFire.jpg){: style="float: left"; margin-right: 10em; height="25%" width="25%"}
+
 ![Collage](assets/img/FinishedCollage.jpg)
 {% include image-gallery.html folder="/uploads/album" %}
 ### Premiere Pro

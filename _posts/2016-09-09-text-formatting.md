@@ -11,9 +11,10 @@ image: coding.jpg
 --------------------- | :-------------------: | :-------------------- | --------------------:
 Communication Skills  | Effective Team Leader | Java Programming      | Python Programming
 JavaScript            | Docker                | GitHub                | Adobe After Effects
-Adobe PhotoShop       | Adobe After Effects   |
+Adobe PhotoShop       | Adobe After Effects
 
 ## Computer Science Projects
+[GitHub](https://github.com/caldwella2)
 
 ## Adobe Creative Cloud Projects
 
@@ -24,7 +25,8 @@ Adobe PhotoShop       | Adobe After Effects   |
 {% include image-gallery.html folder="/uploads/album" %}
 ### Premiere Pro
 
-<iframe width="560" height="315" src="https://youtu.be/9K02CDbJBjw" frameborder="0" allowfullscreen></iframe>
+[Way Less Sad Remake](https://youtu.be/9K02CDbJBjw)
+[Film Final May 2021](https://youtu.be/9pACJlnWdsE)
 
 ### After Effects
 

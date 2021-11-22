@@ -20,12 +20,9 @@ Adobe PhotoShop       | Adobe After Effects   | Python Programming
 
 ### Photoshop
 
-![Astronaut](assets/img/AstroOnFire.jpg)
+![Astronaut](assets/img/AstroOnFire.jpg){: style="float: left"; margin-right: 10em; height="50%" width="50%"}
+![Collage](assets/img/FinishedCollage.jpg){: style="float: center"; margin-right: 10em; height="50%" width="50%"}
 
-![Astronaut2](assets/img/AstroOnFire.jpg){: style="float: left"; margin-right: 10em; height="25%" width="25%"}
-
-![Collage](assets/img/FinishedCollage.jpg)
-{% include image-gallery.html folder="/uploads/album" %}
 ### Premiere Pro
 
 + [Way Less Sad Remake](https://youtu.be/9K02CDbJBjw)

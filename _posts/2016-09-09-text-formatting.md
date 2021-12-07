@@ -22,8 +22,6 @@ Adobe PhotoShop       | Adobe After Effects   | Python Programming
 
 ![Astronaut](assets/img/AstroOnFire.jpg){: style="float: left"; margin-right: 1em; height="50%" width="50%"} ![Collage](assets/img/FinishedCollage.jpg){: style="float: center"; margin-right: 1em; height="50%" width="50%"}
 
---------------------- | :--------------------:
-![Astronaut](assets/img/AstroOnFire.jpg)  | [Collage](assets/img/FinishedCollage.jpg)
 
 ### Premiere Pro
 

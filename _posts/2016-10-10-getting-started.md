@@ -4,7 +4,7 @@ title: "About the Author!"
 author: "Alexis Caldwell"
 categories: facts
 tags: [sample]
-image: portfolio.jpg
+image: leximage.jpg
 ---
 
 Hi! My name is Alexis Caldwell and I am a Junior at Allegheny College. I'm a Computer Science major and a Communication Arts minor. During my time here at Allegheny, I am apart of the Women's Basketball team as well as lead as Co-President of Black Girl Magic (an on campus club).

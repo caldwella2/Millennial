@@ -24,5 +24,8 @@ _**AUG 2021 - PRESENT**_
 Captain of Allegheny's Women Basketball
 _**AUG 2019 - PRESENT**_
 
+Member of DEI (Diversity, Equity, and Inclusion) Student Athlete Committee
+_**AUG 2021 - PRESENT**_
+
 Member of the Outing Club
 _**AUG 2019 - APR 2021**_

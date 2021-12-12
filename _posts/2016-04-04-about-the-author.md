@@ -26,3 +26,6 @@ _**AUG 2019 - PRESENT**_
 
 Member of the Outing Club
 _**AUG 2019 - APR 2021**_
+
+## Resume
+[Resume](file:///C:/Users/alexi/Downloads/Resume%20(1).pdf)

@@ -7,6 +7,10 @@ tags: [documentation,sample]
 image: books.jpg
 ---
 
+# Allegheny College
+_**2019 - PRESENT**_
+Listed below are classes I have taken for my Computer Science major and my Communication Arts minor.
+
 # Computer Science Courses
 
 ## Computational Expression 100
